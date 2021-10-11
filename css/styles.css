@@ -1,0 +1,156 @@
+body {
+  background-color: #E8EAD3;
+  margin: 0;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+  margin: 0;
+  margin-top: 8rem;
+  font-family: 'Caveat', cursive;
+  font-size: 6rem;
+  color: #654062;
+  line-height: 1;
+}
+
+h3 {
+  font-family: 'PT Serif Caption', serif;
+  font-family: 'Nunito', sans-serif;
+  font-size: 2rem;
+  color: #654062;
+  line-height: 1;
+  margin-top: 10px;
+
+}
+
+h2 {
+  font-family: 'Caveat', cursive;
+  font-weight:bold;
+  font-size: 4rem;
+  margin-top: 0;
+  color: #654062;
+}
+hr{
+  width: 20%;
+  border-style: none;
+  border-top: solid 6px #FBD46D;
+  border-radius: 4px;
+}
+p {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+/* 654062 FF9C71*/
+.top-container {
+  background-color: #E8EAD3;
+  position: relative;
+  padding-top: 10%;
+  padding-bottom: 7rem;
+}
+
+.middle-container {
+  background-color: #E8EAD3;
+}
+
+.bottom-container {
+  padding: 25px;
+  padding-bottom: 5px;
+  background-color: #FBD46D;
+
+}
+.bottom-paragraph{
+  font-weight: bold;
+  font-size: .8rem;
+  color: #FFFFFF;
+  margin-top: 35px;
+}
+.footer-link{
+  text-decoration: none;
+  font-weight: 900;
+  line-height: 2;
+  margin-left: 5%;
+  color: #FF9C71;
+}
+.footer-link:hover{
+  text-decoration: none;
+  font-weight: 900;
+  line-height: 2;
+  margin-left: 5%;
+  color: #E8EAD3;
+}
+.profile{
+  width: 50%;
+  margin: 75px auto;
+  background-color: #FBD46D;
+  border-radius: 15px;
+  padding: 10px;
+
+}
+.profile>img{
+  width: 100%;
+}
+.profile>p{
+  color: #FFFFFF;
+  width: 75%;
+  font-weight: bold;
+  margin: auto;
+  margin-bottom: 15%;
+}
+.mountain-img{
+  width: 55vw;
+}
+.skills{
+  margin-top: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  left:25%;
+  text-align: left;
+}
+.skill-image {
+  width: 25%;
+  margin: auto 30px;
+  border-radius: 100%;
+  float: left;
+
+}
+.skill-image1 {
+  width: 25%;
+  margin: auto 30px;
+  border-radius: 100%;
+  float: right;
+
+}
+.second-text{
+  text-align: left;
+}
+.top-cloud {
+  position: absolute;
+  right: 21%;
+  top: 7%;
+}
+.btn{
+  text-decoration: none;
+  padding: 5px;
+  margin-top: 30%;
+  border: 1px solid #654062;
+  border-radius: 5px;
+  background-color: #654062;
+  color: #FFFFFF;
+
+}
+.bottom-cloud {
+  position: absolute;
+  left: 12%;
+}
+.contact-me{
+  margin: 100px auto;
+  margin-bottom: 75px;
+  width: 60%;
+  height: auto;
+  padding: 20px;
+  line-height: 130%;
+}
